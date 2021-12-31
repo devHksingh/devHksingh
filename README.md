@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devHksingh
+- 👋 Hi, I’m @Harshit Kumar Singh
 - 👀 I’m interested in Python,JavaScript,CSS,HTML, Webdevlopment
 - 🌱 I’m currently learning ...Frontend devlopment and Python Framework
 - 💞️ I’m looking to collaborate on ...
