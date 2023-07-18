@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Harshit Kumar Singh
-- 👀 I’m interested in Python,JavaScript,CSS,HTML, Webdevlopment
+- 👀 I’m interested in JavaScript,CSS,HTML, Webdevlopment
 - 🌱 I’m currently learning ...Frontend devlopment 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  email@ hksingh.dev@gmail.com
 
 <!---
