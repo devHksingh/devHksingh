@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshit Kumar Singh
 - 👀 I’m interested in JavaScript,CSS,HTML,React,Typescript,NodeJs,Express Webdevlopment
-- 🌱 I’m currently learning ...Frontend devlopment 
+- 🌱 I’m currently learning ...Fullstack devlopment 
 - 📫 How to reach me  email@ hksingh.dev@gmail.com
 
 <!---
