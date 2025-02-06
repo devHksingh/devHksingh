@@ -51,14 +51,14 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nextjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript&theme=dark" />
 </p>
 </div>
 
 ### 🧩 &nbsp;&nbsp;Libraries & Frameworks :
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,react,nodejs,express,htmx&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tailwind,react,nodejs,express,nextjs&theme=dark" />
 </p>
 
 <!--
@@ -70,16 +70,26 @@
 
 -->
 
+### 🗄️ &nbsp;ORM:
+
+<p align="center">
+  <span align="center">mongoose</span>
+  <img src="https://skillicons.dev/icons?i=mongoose,prisma&theme=dark" />
+  
+</p>
+
 ### 🗄️ &nbsp;Databases:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongo,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongo&theme=light" />
 </p>
+
+
 
 ### 🛠️ &nbsp;Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" />
 </p>
 
 <br/><br/>
