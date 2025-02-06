@@ -70,7 +70,7 @@
 
 -->
 
-### 🗄️ &nbsp;ORM:
+### 🗄️ &nbsp;ORM/ODM:
 
 <p align="center">
   <span align="center">mongoose</span>
