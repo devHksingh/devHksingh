@@ -89,7 +89,7 @@
 ### 🛠️ &nbsp;Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman&theme=dark" />
 </p>
 
 <br/><br/>
